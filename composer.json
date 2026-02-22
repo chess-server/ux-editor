@@ -1,5 +1,5 @@
 {
-    "name": "pentiminax/ux-editor",
+    "name": "chess-server/ux-editor",
     "type": "symfony-bundle",
     "description": "Editor.js integration for Symfony",
     "keywords": [
